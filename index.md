@@ -1,8 +1,8 @@
-# <h1> Header 1
-## <h2> Header 2
-### <h3> Header 3
-#### <h4> Header 4
-##### <h5> Header 5
-###### <h6> Header 6
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 used Markdown to create the 6 types of Headers
