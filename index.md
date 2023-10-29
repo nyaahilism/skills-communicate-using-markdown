@@ -12,3 +12,7 @@ used Markdown to create the 6 types of Headers
 ` ` ` 
 $ sudo aura -Syu
 ` ` `
+
+- [ ] Learn how to use Github
+- [ ] Learn Git as well
+- [ ] Learn how to program!
